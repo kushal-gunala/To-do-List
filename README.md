@@ -7,9 +7,6 @@ A simple and responsive To-do List web application built using **React**, **Tail
 -  Add new tasks
 -  Delete tasks
 -  Mark tasks as completed
--  Persistent data using local storage
--  Dark mode (optional if implemented)
--  Fast and lightweight, powered by Vite
 
 ## Tech Stack
 

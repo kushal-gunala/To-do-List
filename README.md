@@ -6,6 +6,7 @@ A simple and responsive To-do List web application built using **React**, **Tail
 
 -  Add new tasks
 -  Delete tasks
+-  Edit tasks
 -  Mark tasks as completed
 
 ## Tech Stack

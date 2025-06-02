@@ -14,5 +14,5 @@ A simple and responsive To-do List web application built using **React**, **Tail
 - React
 - JavaScript
 - Vite
-- Taiwind CSS
+- Tailwind CSS
 
